@@ -6,5 +6,4 @@ Actualizar
 
 Eliminar
 ![](https://github.com/snipgamer1/JFlores_Crud_PHP_Mongo.-/blob/main/Eliminar.jpg?raw=true)
-Index
-![](https://github.com/snipgamer1/JFlores_Crud_PHP_Mongo.-/blob/main/Index.jpg?raw=true)
+
